@@ -1,2 +1,0 @@
-# myfirstsait
-My first sait
